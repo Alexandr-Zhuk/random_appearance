@@ -1,0 +1,19 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.container .area {
+  width: 600px;
+  height: 600px;
+  border: 1px solid red;
+  border-radius: 10px;
+  position: relative;
+}
+.container .area .click-obj {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: blue;
+  position: absolute;
+  left: 20px;
+}/*# sourceMappingURL=main.css.map */
